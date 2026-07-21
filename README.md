@@ -13,9 +13,9 @@ While a standard resume offers a high level summary, this repository provides de
 ## Detailed Experience Breakdown
 
 ### 1. Operational Specialist – Data Operations
-**Company:** Global System Solution - Colombo (Client: Trax & Form Retail Partnership)
-**Timeline:** March 23, 2026 – Present  
-**Setup:** Remote (Shift: 11:30 AM – 8:30 PM)  
+- **Company:** Global System Solution - Colombo (Client: Trax & Form Retail Partnership)
+- **Timeline:** March 23, 2026 – Present  
+- **Setup:** Remote (Shift: 11:30 AM – 8:30 PM)  
 
 #### Overview
 Manage end to end data update operations, client communications, and quality assurance workflows within the Data Operations department. Responsible for processing large scale database updates and maintaining high data integrity across multi client datasets.
@@ -36,9 +36,9 @@ Manage end to end data update operations, client communications, and quality ass
 ---
 
 ### 2. Quality Assurance Technician
-**Company:** Global System Solution - Colombo (Client: Trax & Form Retail Partnership)  
-**Timeline:** April 30, 2025 – March 20, 2026  
-**Setup:** Remote (Shift: 5:30 AM – 2:30 PM)  
+- **Company:** Global System Solution - Colombo (Client: Trax & Form Retail Partnership)  
+- **Timeline:** April 30, 2025 – March 20, 2026  
+- **Setup:** Remote (Shift: 5:30 AM – 2:30 PM)  
 
 #### Overview
 Worked in a regional team environment supporting computer vision and image annotation pipelines for major retail clients. Focused on precise image tagging, object stitching, and strict daily output targets to train downstream AI/ML datasets.

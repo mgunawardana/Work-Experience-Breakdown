@@ -57,3 +57,15 @@ Worked in a regional team environment supporting computer vision and image annot
 | **Tools & Systems** | Jira, Planorama Back Office System, Excel, Google Sheets |
 | **Quality Assurance** | Image Annotation, Image Stitching, Data Auditing, Post-Import DB Verification |
 | **Leadership & Soft Skills** | Interim Team Leadership, Client Communication, Remote Team Collaboration, Time Management |
+
+---
+
+## Connect & Follow
+
+* **Email:** [mihindigunawardana.cyber@gmail.com](mailto:mihindigunawardana.cyber@gmail.com)
+* **LinkedIn:** [Mihindi Gunawardana](https://www.linkedin.com/in/mihindi-gunawardana-110866370/)
+* **Instagram:** [@mgunawardanaa](https://www.instagram.com/mgunawardanaa)
+<!-- 
+* **Blog:** [Medium](https://medium.com/@yourhandle) 
+* **Website:** [Website](https://medium.com/@yourhandle)
+-->
